@@ -33,4 +33,5 @@ python app.py 47.5 19.2 50
 
 ## Sources
 https://www.askpython.com/python/examples/calculate-gps-distance-using-haversine-formula
+
 https://stackoverflow.com/questions/1253499/simple-calculations-for-working-with-lat-lon-and-km-distance
