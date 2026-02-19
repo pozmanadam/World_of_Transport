@@ -1,6 +1,6 @@
 # World of Transport
 
-Command-line app that lists transport hubs within a given distance.
+Command-line app that lists transport hubs within a given distance
 
 ## Requirements
 
@@ -26,10 +26,10 @@ python app.py 47.5 19.2 50
 ## Notes
 
 - Pulls data from https://mikerhodes.cloudant.com/airportdb
-- Uses search index _design/view1/_search/geo.
+- Uses search index _design/view1/_search/geo
 - The default limit(25) for the queries not bypassed
 - Calculations are rough approximations
-- Results are sorted by ascending distance.
+- Results are sorted by ascending distance
 
 ## Sources
 https://www.askpython.com/python/examples/calculate-gps-distance-using-haversine-formula
